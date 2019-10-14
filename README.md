@@ -8,6 +8,8 @@
 
 * Instll tensorflow using command pip install tensorflow in command prompt
 
+* Editor used : Anaconda, you can use any of the editor as per your interest.
+
 # Installing libraries
   * Run following command in your command prompt for installing required libraries
     * os --> pip install os
