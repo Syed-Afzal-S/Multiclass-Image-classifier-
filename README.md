@@ -21,8 +21,8 @@
 
 # Preparing a Dataset
 
-  This dataset contain total images of 2134 images, in which around 70% of images are used for training purpose, 22% of images
-  used for validation data and remaining 8% is used for testing purpose.
+  This dataset contain 2134 images, in which around 70% of images are used for training purpose, 22% of images
+  used for validation purpose and remaining 8% is used for testing purpose.
 
   * In this example we have used 6 classes namely [cats, dogs, salman, messie,sharukh, syed]
 
@@ -77,11 +77,11 @@
   
   # Output of the testing model
   
-    * 8% of our test set which is not trained is inducted into prediction.
-    * output will be in the form of array, in which indexes define the classess.
-    * Example say a image is predicted as cats the array will be [1,0,0,0,0,0], and if it is messi [0,0,1,0,0,0]
-    * Please read indexes accordingly [cats, dogs, messi, salman, sharukh, syed]
-    * Here the accuracy has been rounded to a integer instead of float.
+   * 8% of our test set which is not trained is inducted into prediction.
+   * output will be in the form of array, in which indexes define the classess.
+   * Example say a image is predicted as cats the array will be [1,0,0,0,0,0], and if it is messi [0,0,1,0,0,0]
+   * Please read indexes accordingly [cats, dogs, messi, salman, sharukh, syed]
+   * Here the accuracy has been rounded to a integer instead of float.
     
   
 # Accuracy Details:
