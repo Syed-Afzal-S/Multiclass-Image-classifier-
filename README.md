@@ -67,7 +67,7 @@
 
   ## VGG16 pre-trained model architecture
   
-      ![VGG16_architecture](https://user-images.githubusercontent.com/56253081/67145614-74d02d00-f2a0-11e9-99d1-4d1ee64f3f36.png)
+ ![VGG16_architecture](https://user-images.githubusercontent.com/56253081/67145614-74d02d00-f2a0-11e9-99d1-4d1ee64f3f36.png)
  
   # Testing the model
   
