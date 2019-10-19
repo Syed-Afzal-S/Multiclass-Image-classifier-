@@ -65,7 +65,7 @@
       * This function require that output layer is configured with n number of nodes, one for each class here we have 6 classes.
       * Soft max activation in order to predict the probability of each class
 
-  ## VGG16 pre-trained model architecture
+  ## VGG16 pre-trained model CNN architecture
   
  ![VGG16_architecture](https://user-images.githubusercontent.com/56253081/67145614-74d02d00-f2a0-11e9-99d1-4d1ee64f3f36.png)
  
