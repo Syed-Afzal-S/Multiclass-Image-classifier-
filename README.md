@@ -49,7 +49,7 @@
   
   * Load the dataset using python by assigning each directory to train , validation and test directory
   * Import transfer learning model, in this case it is VGG16
-  * Creat weights and features using VGG16
+  * Create weights and features using VGG16
   * Create Convolutional Neural Network code
   * Compile and Fit the model
   * Save the trained model
