@@ -38,11 +38,11 @@
       * Now under each subdirectories add class directories like cats, dogs, salman, messie, sharukh, syed
       * Below is the example of test directory same should be followed for validation and testset
 
-       ![class](class.png)
+      ![class](images/class.png)
 
       * Now under each class add images.
 
-     ![images](images.jpg)
+      ![images](images/images.jpg)
   
   
   # Steps to be followed after preparing dataset
