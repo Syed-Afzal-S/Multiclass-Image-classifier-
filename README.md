@@ -32,17 +32,17 @@
   
       * Under main directroy there are 3 sub directories named testset, validation , train
 
-      ![dataset](https://user-images.githubusercontent.com/56253081/66737339-5249a880-ee89-11e9-86a1-08f92f6816b6.jpg)
+      ![dataset](images/dataset.jpg)
 
 
       * Now under each subdirectories add class directories like cats, dogs, salman, messie, sharukh, syed
       * Below is the example of test directory same should be followed for validation and testset
 
-       ![class](https://user-images.githubusercontent.com/56253081/66737343-54ac0280-ee89-11e9-8c62-1adfa772cf9f.png)
+       ![class](class.png)
 
       * Now under each class add images.
 
-     ![images](https://user-images.githubusercontent.com/56253081/66737350-5a094d00-ee89-11e9-9d83-17dc2019b290.jpg)
+     ![images](images.jpg)
   
   
   # Steps to be followed after preparing dataset
